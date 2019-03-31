@@ -5,4 +5,6 @@ The nobody has to be seen as the type of person (in the early
 modules) that would easily fall for and be manipulated by the 
 later tactics of the illuminati.
 
-
+Character Arc: 
+Artist --> Hacker --> Magician
+WITH flaw, sin, shortcomings, quirks, etc folded in. 

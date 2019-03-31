@@ -26,18 +26,25 @@ INITIATIVE - If neither player is SUPRISED
 	of the others presence and gains advantage.
 
 
-There are two types of Damage:
+There are four types of Damage:
 
 Psychological
+Psychic
+Magical
 Physical 
 
 There are two causes of these types of damage:
 
-Natural
-Supernatural
+Natural - Psychological and Physical
+Supernatural - Magical and Psychic
 
+Magic does all types of damage EXCEPT for psychic
+Psychic does all types of damage EXCEPT for magic
+Psychological does psychological and physical (psychosomatic, cummulative)
+Physical does physical and psychological (PTSD, fear, trauma, etc)
 
 PSYCHOLOGICAL DAMAGE
 
 Confusion - The player comes to the wrong conclusions or assumes empty
-or hollow quests.
+or hollow quests. Saving throws or duration throw expires effort and player 
+"wakes up". There is an AFTERMATH Depression effect.
