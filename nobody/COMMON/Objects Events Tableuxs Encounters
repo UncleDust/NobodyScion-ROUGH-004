@@ -73,6 +73,10 @@ object, event, or tableux. This means that the character will be damaged no
 matter what and will think it's a helpful object if it is harmful and a harmful
 object if it is helpful. 
 
+If both challenge rolls are succesful then in addition to understanding the 
+object's significance and status (attacking or advantageous) they will also
+be able to discern if the found object is suitable for use as a magical artifact.
+
 [# there is the possibility here of using a 'blended roll' that is a combined roll
 that allows the player to distribute points how they see fit for a final challenge
 score]
