@@ -7,37 +7,47 @@ CHARACTER ATTRIBUTES
 #I'm thinking no levels rather each skill, attribute, etc is rated seperately and that's that. 
 
 CHARACTER NAME: 
+ALIGNMENT: 
+Selfless vs Selfish dialectic
+Ends justify the means - 'gotta break some eggs to make an omlette'
+Authority vs. Expression
+Stability vs. Freedom 
+Materialism vs. Idealism
+Ethical Rigidity vs. Ethical Relativity
+Group vs. Individual
+Man vs. Nature
 
 LEVEL: 
 EXPERIENCE POINTS: 
 POINTS NEEDED FOR LEVEL ADVANCE: 
 SKILL POINTS:
 
+RATINGS
+Street Cred
+Professional
+Man on the Street
+Goverment Instituions
+Social Institutions
+Media
+Subcultures
+
 LIFE POINTS: 
-MANA:
-PSI-QUANTA:
-PSYCH LEVEL:
+MANA  (MAGICAL LEVEL):
+
+	USE:
+	REALITY-BENDING (probability control; luck; hex;)
+	ASTRAL TRAVEL (visit other dimensions; commune with the Gods)
+	ENERGY MANIPULATION (DEFENSE, OFFENSE)
+	WEATHER CONTROL (cloud busting, rain, tornadoes, hurricanes, typhoons)
+
+PSI-QUANTA (PSYCHIC LEVEL):
+PSYCH LEVEL(Ability to persaude, manipulate, dominate, etc.):
+
 
 LUCK: [A game mechanic called "Leap of Faith" (similar to "Go For Broke"?) influenced
 by this LUCK state. Also, used on occasion for events of chance or probability or to skew
 game-changing events in some way.
 
-
-PHYSICAL ABILITIES:
-The player choses (or rolls random) for 
-	1) body type (ectomorph, mesomorph, endomorph)
-	2) Height
-
-These two things determine the following physical attributes:
-	Strength
-	Agility
-	Flexibility
-	Endurance
-	Reflexes
-
-Hand/Eye cordination and Reflexes are a TBD combination of the mental 
-abilities CONCENTRATION and AWARENESS with STRENGTH/ENDURANCE and AGILITY/
-FLEXIBILITY respectively.
 
 MENTAL/INTRA-PSYCHIC: 
 
@@ -109,6 +119,17 @@ etc.
 
 Used to create (design and fashion) MAGICAL TOOLS, RITUALS, and ARTIFACTS. 
 
+DISCRIMINIATION / WISDOM: 
+The ability to tell the difference between mundane/real vs. super-mundane/
+irreal in a way that leads to the proper interpretation of information
+passed on by the environment or via a characters abilities (probably 
+AWARENESS). Most importantly, it is the abilitity to discriminate between 
+a beneficial and harmful thing or person.  This is also referred to as
+'discernment' and is the ability to effectivelydetermine the status 
+(advantageous / attacking)  of any found objects. This is also used to
+determine the suitability of a found object in magical tool and artifact
+creation.  Determining whether an encounter is of a friend or foe variety.
+
 WILL:
 (psychological)
 
@@ -118,7 +139,7 @@ WILL:
 	This determines MANA and PSI CAPACITIES (SEE SECTION BELOW)
 
 RESILIENCE:
-(Resolve / Ego-Coherence / Psychological Integrity) 
+(Resolve / Ego-Coherence / Psychological Integrity/Sanity) 
 This is the ability to shield/mitigate against psychic and magical
 attacks 
 and
@@ -132,67 +153,28 @@ The ability to recover from psychic and magical attacks
 
 COURAGE: 
 
-PRIDE: 
-
-DISCRIMINIATION / WISDOM: 
-The ability to tell the difference between mundane/real vs. super-mundane/
-irreal in a way that leads to the proper interpretation of information
-passed on by the environment or via a characters abilities (probably 
-AWARENESS). Most importantly, it is the abilitity to discriminate between 
-a beneficial and harmful thing or person.  This is also referred to as
-'discernment' and is the ability to effectivelydetermine the status 
-(advantageous / attacking)  of any found objects. This is also used to
-determine the suitability of a found object in magical tool and artifact
-creation.  Determining whether an encounter is of a friend or foe variety.
-
 CALM: 
-(PSYCHOLOGICAL STEALTH LEVEL)
-
-MAGICAL, PSYCHIC, PSYCHOLOGICAL ABILITIES:
-
-MANA:
- (MAGICAL LEVEL)
-
-	USE:
-	REALITY-BENDING (probability control; luck; hex;)
-	ASTRAL TRAVEL (visit other dimensions; commune with the Gods)
-	ENERGY MANIPULATION (DEFENSE, OFFENSE)
-	WEATHER CONTROL (cloud busting, rain, tornadoes, hurricanes, typhoons)
-
-PSI-QUANTA:
-(PSYCHIC LEVEL)
-
-PSYCHOLOGICAL: 
-(Ability to persaude, manipulate, dominate, etc.)
+(PSYCHOLOGICAL STEALTH LEVEL):
 
 
-NATURAL DISASTERS (earthquakes, volcanos, meteor and meteorites, solar flares, tsunamis, avalanches, etc.)
-MAN-MADE DISASTERS (energy, transportation, communication)
-LUCID DREAMING (shape reality via the dream scape)
-MIND CONTROL (controlling behavior; including sleep and paralysis) - SOFT AND HARD
-STATE CONTROL (controlling emotions)
-CHARM 
-CONFUSE
-INTIMIDATE / SCARE
-SHAME / DEPRESS
+PHYSICAL ABILITIES:
+The player choses (or rolls random) for 
+	1) body type (ectomorph, mesomorph, endomorph)
+	2) Height
 
-ALIGNMENT: 
-Selfless vs Selfish dialectic
-Ends justify the means - 'gotta break some eggs to make an omlette'
-Authority vs. Expression
-Stability vs. Freedom 
-Materialism vs. Idealism
-Ethical Rigidity vs. Ethical Relativity
-Group vs. Individual
-Man vs. Nature
+These two things determine the following physical attributes:
+	Weight
+	Strength
+	Agility
+	Flexibility
+	Endurance
+	Reflexes
+	Stealth
 
-RATINGS
-Street Cred
-Professional
-Man on the Street
-Goverment Instituions
-Social Institutions
-Media
-Subcultures
+Hand/Eye cordination and Reflexes are a TBD combination of the mental 
+abilities CONCENTRATION and AWARENESS with STRENGTH/ENDURANCE and AGILITY/
+FLEXIBILITY respectively.
+
+AGE is mostly determined by the module being played and PHYSICAL SHORTCOMING is chosen by the player. The Stage Manager will help you with both of this bits of information. 
 
 
