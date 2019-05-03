@@ -26,28 +26,94 @@ Adversaries com in
 	hybrid types
 	group / faction / clique
 
+Individual instances of advesaries are assigned a THREAT RATING using the RELATIONSHIP
+CHARACTER ANALYSIS [#note: in black chapbook. Something along the lines of a scale
+<- (-2) <- (-1) <- 0 -> 1 ->2. Maybe, assign a letter grade or unique term set.]
+
 IRREAL ADVERSARIES
 
 All IRREAL / SUPERMUNDANE / SUPERNATURAL ADVERSARIES are "possesed"
 by a force, or field that controls, advises, and aids them. 
 
+The difference between REAL vs. IRREAL modalities of exsistence are this: When Adversaries
+are in REALITY mode they offer no threat and are thus invisible and yet to be
+detected/confirmed or making no attack. In IRREALITY mode the behavior of all Adversaries
+is meant to stand out and be obvious to any TARGET. This is done through extravegant behavior, loud clothing, strange PROPS or MAGIC TOOLS, the use of TWILIGHT LANGUAGE in conjuction with TABLEUXS or ENCOUNTERS. Adversaries gain advantage with SURPRISE or AMBUSH in the proper circumstances.
+
+Some regular folks can appear to be any of the following for any of the normal and natural
+reasons and other regular folks do it because someone has influence over them of one sort
+or another and can make them dance around on command. 
+
 VAMPIRES are able to hide their alignment and cooperation with this
 force or field because they have maintained enough coherence and 
-humanity to pass undetected. 
+humanity to pass undetected. They are evil as a tactic and because
+they find it enjoyable.
 
 DEMONS are still communicative, but can be considered inferior in 
 social standing to vampires. They have maintained just enough
 coherence and humanity to be disregarded as merely strange, 
-obnoxious, mean, or silly.
+obnoxious, mean, or silly. They are evil as a psychological pose, 
+philosophical stance, tactic, and because they find it funny.
 
 FERALS have been completely overtaken by this force and their 
 original personality has been burned out and replaced. Incoherent
 and threatening they use simple words or nonsensical phrases to 
 conduct TWILIGHT LANGUAGE attacks. The threat of physical violence
-is always there. 
+is always there. They are pure chaos, saturated madness, and 
+unpredictably, razor-blades-and-broken-beer-bottles dangerous.
 
 
-	DEMONIC POSSESION
+			TEMPLATE 
+
+DEFINTION
+
+PATTERN MANIFESTATION (examples)
+
+MECHANICS
+
+Passive 
+Primary
+
+Secondary
+
+Active
+Primary
+
+Secondary
+
+Special
+
+Ultimate
+
+
+	TYPE ONE
+	Existence Classification: Mundane
+	Primary Type: Human Agent
+	Primary effect:
+	Secondary effect:
+	Special:
+
+	TYPE TWO
+	Existence Classification: Supermundane
+	Primary Type: Vampiric/Demonic
+	Primary effect:
+	Secondary effect:
+	Special:
+
+	TYPE THREE
+	Existence Classification: Supermundane
+	Primary Type: Feral
+	Primary effect:
+	Secondary effect:
+	Special:
+
+	TYPE FOUR
+	Existence Classification: Supermundane
+	Primary Type: Siren
+	Primary effect:
+	Secondary effect:
+	Special:
+
 
 		FERALS
 Ferals seem possessed but are actually blown-out technicians [#note
@@ -62,7 +128,7 @@ is.
 	Secondary effect:
 	Special:
 
-	POSSESSED
+	THRALL
 	Existence Classification: Supermundane
 	Primary Type: Vampiric/Demonic
 	Primary effect:
@@ -76,34 +142,22 @@ is.
 	Secondary effect:
 	Special:
 
-		VAMPIRES 
+			SIRENS
 
-Vampires can be difficult to spot because off all the types of advesaries they are the most well-adjusted to what is called our real society. They have jobs, families, positions of authority, but they are well aware of irreality and flaunt their success and position at the top of the illuminati heap. 
+DEFINTION
 
-Pattern-manifestation - Expert mindblasters. Very subtle. Expert at camoflage. 
+PATTERN MANIFESTATION
 
-Mechanics: Player must make save vs. Domination (Mind Control)
+MECHANICS
 
-	Existence Classification: Mundane
-	Primary Type: Human Agent
-	Primary effect:
-	Secondary effect:
-	Special:
+Primary player must make save vs. frustration while engaged and/or 
+interacting with a Drip.
 
-	Existence Classification: Supermundane
-	Primary Type: Vampiric/Demonic
-	Primary effect:
-	Secondary effect:
-	Special:
+Secondary
 
-	Existence Classification: Supermundane
-	Primary Type: Feral
-	Primary effect:
-	Secondary effect:
-	Special:
+Special
 
 
-								SIRENS
 
 HONEYPOT
 	Existence Classification: Mundane
@@ -128,7 +182,7 @@ SEX CLOWNS
 	Primary effect: CONFUSION	
 	
 
-							SQUISHIES
+			SQUISHIES
 
 Squishies are the saddest of creatures. They are the very bottom of 
 the pile; mentally deficient, emotionally inept, and physically they are ugly 
@@ -143,19 +197,36 @@ that they are aware of themselves and their ugliness, but they don't care. on
 top of this their behavior insinuates that they consider themselves better than 
 you. 
 
-mechanics: players must make a save vs. frustration when in the presence of 
-Squishies.
+MECHANICS
 
-DRIPS - Are active squishies and are supernatural
+Primary: Save vs. frustration when in the presence of Squishies [TBD: AOE]
 
-pattern manifestation: Where a squishy will just sit or stand there a Drip will 
+Secondary: 
+
+			DRIPS
+
+DEFINITION
+
+Drips are supernatural squishies.
+
+PATTERN MANIFESTATION
+
+Where a squishy will just sit or stand there a Drip will 
 actively engage and attempt to interact with you. They are like a joker and 
 vampire, but where a joker attempts to create a psychedelic effect and the 
 Vampire creates a domination effect, Drips create a frustration effect via the 
 ugliness mentioned above in the Squishy entry.
 
-mechanics: player must make save vs. frustration while engaged and/or 
+MECHANICS
+
+Primary: player must make save vs. frustration while engaged and/or 
 interacting with a Drip.
+
+Secondary: Drips lay down ARCANE DAMPNERS that cause any nearby technicians
+or psions to roll at disadvantage.
+
+Special: 
+
 
 BOTH DRIPS AND SQUISHIES are 'ugly' people who act as though they believe 
 themselves to be beautiful. (Personality is what's ugly and appearance is 
@@ -181,6 +252,44 @@ just it's outward manifestation here)
 	Primary effect:
 	Secondary effect:
 	Special:
+
+		VAMPIRES 
+
+DEFINITION 
+Vampires can be difficult to spot because off all the types of advesaries they are the most well-adjusted to what is called our real society. They have jobs, families, positions of authority, but they are well aware of irreality and flaunt their success and position at the top of the illuminati heap. 
+
+PATTERN MANIFESTATION
+Varying levels of mindblasters. Varying level of subtlety. Adept at camoflage. 
+
+MECHANICS
+
+Primary: Player must make save vs. Domination (State Control)
+
+Secondary: Player must make save vs. Domination (Mind Control)
+
+Special: Soul Sipping / Anti-Scrying
+
+	Existence Classification: Mundane
+	Primary Type: Human Agent
+	Primary effect:
+	Secondary effect:
+	Special:
+
+	Existence Classification: Supermundane
+	Primary Type: Vampiric/Demonic
+	Primary effect:
+	Secondary effect:
+	Special:
+
+	JOKER
+	Existence Classification: Supermundane
+	Primary Type: Feral
+	Primary effect:
+	Secondary effect:
+	Special:
+
+
+OTHER TYPES OF NON-PLAYER CHARACTERS
 
 Proxies -
 
